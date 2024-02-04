@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "0aedcc1b3aaca5c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ad721263e0f0a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc3f511a0101e81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "2bf96eb7a5ece1a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-04 04.29.45.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6395edd9268fb8fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "3ed06cc93865ccf3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SCTO/__Papers/IRICT 2023-Springer-Word-format1.pdf"
+              }
+            }
+          },
+          {
+            "id": "1a358e586d6635b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCTO/Dataview/Dataview 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "118fc914a72a3111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCTO/1️⃣ Primary Sources/Connell 1964.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48f0a9036d0e43ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71fb4ec7af0a2a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9363ba30736f889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e276eefa721eb9ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04bc4784267e0a72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4baece20dabc38df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "295ff4d7897d60e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "990d804c4c0b0d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1d2f6d2e6af360",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "001d91bd48425278",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a52b3b86b29a94d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a26914b6a9d6cca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "48f0a9036d0e43ea",
+  "lastOpenFiles": [
+    "SCTO/Canvas/Reference Manager.canvas",
+    "Untitled 2.canvas",
+    "SCTO/Canvas/Start here.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-02-04 08.41.03.excalidraw.md",
+    "SCTO/1️⃣ Primary Sources/Shahizan 2020.md",
+    "Untitled.canvas",
+    "SCTO/Canvas/Research Mindmap.canvas",
+    "SCTO/Canvas/Readme canvas.md",
+    "SCTO/Canvas/Library Dashboard.canvas",
+    "SCTO/Canvas/Brainstorm.canvas",
+    "SCTO/Canvas/Book Dashboard.canvas",
+    "SCTO/Mind Map/Check box.md",
+    "SCTO/Mind Map/Readme Mind map.md",
+    "SCTO/Mind Map/Mind mapping.md",
+    "SCTO/Mind Map/IoT blockchain.md",
+    "SCTO/Dataview/Dataview Templates.md",
+    "SCTO/1️⃣ Primary Sources/Waleed 2023.md",
+    "Dataview1.md",
+    "Dataview1a.md",
+    "Untitled 1.md",
+    "Untitled",
+    "SCTO/Dataview/Dataview 1.md",
+    "Excalidraw/Drawing 2024-02-04 08.09.52.excalidraw.md",
+    "Exercise4",
+    "SCTO/1️⃣ Primary Sources/Connell 1964.md",
+    "SCTO/__Papers/Connell 1964.pdf",
+    "Untitled 1a.md",
+    "SCTO/Excalidraw/SLR github.md",
+    "BENA 2024.md",
+    "SCTO/__Papers/IRICT 2023-Springer-Word-format1.pdf",
+    "SCTO/__Media/bena.jpg",
+    "SCTO/__Media/Pasted image 20221202163803.png",
+    "SCTO/TOC.md",
+    "Chapter1.md",
+    "Bena Kanban.md",
+    "1 combine.md",
+    "Chapter2.md",
+    "2024-02-04.md",
+    "readme1.md",
+    "Pasted Image 20240204041244_724.jpg",
+    "Combine",
+    "Untitled 1",
+    "Excercise2",
+    "Excalidraw",
+    "SCTO/__Papers/Waleed 2023.pdf",
+    "SCTO/__Papers/Shahizan 2020.pdf",
+    "SCTO/__Media/Zettelkasten steps.png",
+    "SCTO/__Media/Pasted Image 20240202102119_150.png",
+    "SCTO/__Media/Pasted Image 20240202095039_003.jpg",
+    "SCTO/__Media/Pasted image 20221214131115.png",
+    "SCTO/__Media/Pasted image 20221214125814.png",
+    "SCTO/__Media/Pasted image 20221214124807.png",
+    "SCTO/__Media/Pasted image 20221214123958.png",
+    "SCTO/Canvas/Sample.canvas",
+    "SCTO/Canvas/Media Dashboard.canvas"
+  ]
+}

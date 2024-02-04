@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7abafb5dbef7ec44","x":-340,"y":-180,"width":250,"height":60,"type":"text","text":"Big Data Governance"},
+		{"id":"5e89c18983025011","x":-20,"y":-180,"width":250,"height":60,"type":"text","text":"Big data Governance framework"},
+		{"id":"7790c48adc58a98e","x":-527,"y":-12,"width":400,"height":400,"type":"file","file":"Chapter2.md"},
+		{"id":"7d86228c1c6c2c32","x":20,"y":-60,"width":400,"height":400,"type":"file","file":"SCTO/1️⃣ Primary Sources/Shahizan 2020.md"},
+		{"id":"a6f6abf863942e3d","x":-140,"y":260,"width":600,"height":440,"type":"text","text":"![](https://youtu.be/uPsUjKLHLAg?si=6OKvcW4thpKCgGP1)"}
+	],
+	"edges":[
+		{"id":"7b09c02a63526f6b","fromNode":"7abafb5dbef7ec44","fromSide":"right","toNode":"5e89c18983025011","toSide":"left"},
+		{"id":"080a46c69184ebb6","fromNode":"7d86228c1c6c2c32","fromSide":"left","toNode":"7790c48adc58a98e","toSide":"right"}
+	]
+}

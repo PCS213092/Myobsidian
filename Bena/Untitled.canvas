@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c7a79625922bb3d7","x":45,"y":-243,"width":250,"height":60,"type":"text","text":"Big Data governance Framework"},
+		{"id":"0cda6774bf4af277","x":-340,"y":-243,"width":250,"height":60,"type":"text","text":"BIG DATA GOVERNANCE"}
+	],
+	"edges":[
+		{"id":"de8d7d09eb3eb8db","fromNode":"0cda6774bf4af277","fromSide":"right","toNode":"c7a79625922bb3d7","toSide":"left"}
+	]
+}
